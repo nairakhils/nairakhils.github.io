@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<b>Hi!, I am Akhil.</b>
+<b>Hi!, I am Akhil.</b> <br/>
+
 I am an aspiring researcher in Astronomy & Astrophysics. 
 
 At present, I am on the study of ...
