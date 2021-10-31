@@ -18,7 +18,7 @@ Work experience
 ======
 * 2020-Ongoing: Research Project Student
   * Indian Institute of Astrophysics
-  * Research Topics: Quasar radio morphology classification using Deep Learning | BAL quasars | Radio-Optical AGN parameter correlations 
+  * Research Topics: Quasar radio morphology classification using Deep Learning,  BAL quasars,  Radio-Optical AGN parameter correlations 
   * Supervisor: 
 
 * 2019-2020: MSc. Project Trainee
