@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Physics, University of Mumbai, 2018
+* M.Sc. Physics, University of Mumbai, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-Ongoing: Research Project Student
+  * Indian Institute of Astrophysics
+  * Research Topics: Quasar radio morphology classification using Deep Learning | BAL quasars | Radio-Optical AGN parameter correlations 
+  * Supervisor: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020: MSc. Project Trainee
+  * Society for Applied Microwave Electronics Engineering & Research 
+  * Research Topics: 
+  * Supervisor: 
   
 Skills
 ======
